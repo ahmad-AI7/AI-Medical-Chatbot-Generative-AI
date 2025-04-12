@@ -1,0 +1,9 @@
+README.md
+setup.py
+MEDICAL_Generative_Ai_project.egg-info/PKG-INFO
+MEDICAL_Generative_Ai_project.egg-info/SOURCES.txt
+MEDICAL_Generative_Ai_project.egg-info/dependency_links.txt
+MEDICAL_Generative_Ai_project.egg-info/top_level.txt
+src/__init__.py
+src/helper.py
+src/prompt.py
